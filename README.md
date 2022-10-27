@@ -1,7 +1,3 @@
-## Authors
-Sheillah Matsvimbo - [Github](https://github.com/smat67)  
-Ashleigh Rufaro Kusowa - [Github](https://github.com/leighshakay)
-
 ## Description :house:
 
 AirBnB is a complete RESTful web application, integrating file and
@@ -356,4 +352,6 @@ $ python3 unittest -m tests/test_console.py
 <a href=”image/Project-0x03.AirBnB_clone-Deploy-static-ALX-Africa-Intranet.html">file</a>
 
 
-
+## Authors
+Gedeon Obae Gekonge - [Github](https://github.com/Gedeonobae)  
+Gideon Ogega - [Github](https://github.com/Ogega254)
